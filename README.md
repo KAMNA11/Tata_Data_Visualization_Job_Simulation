@@ -14,8 +14,6 @@
 
 ![Screenshot (94)](https://github.com/KAMNA11/Tata_Data_Visualization_Virtual_Experience_Programme/assets/136696822/bfabdbd6-9d94-4183-a17c-9248f50767fc)
 
-![Screenshot (95)](https://github.com/KAMNA11/Tata_Data_Visualization_Virtual_Experience_Programme/assets/136696822/54de9ee8-71ce-428a-be13-847d166f9e1a)
-
 ![Screenshot (96)](https://github.com/KAMNA11/Tata_Data_Visualization_Virtual_Experience_Programme/assets/136696822/94ed69c3-aba6-4675-b681-72193a697dd0)
 
 ![Screenshot (97)](https://github.com/KAMNA11/Tata_Data_Visualization_Virtual_Experience_Programme/assets/136696822/1790e22e-dbb5-469e-b635-2905afb7cacb)
