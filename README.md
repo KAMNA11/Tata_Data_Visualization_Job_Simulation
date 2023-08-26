@@ -1,7 +1,7 @@
 # Tata_Data_Visualization_Virtual_Experience_Programme
 
 # Case Overview
-An online reatail store hired you as a consultant to review their data and provide insights that would be valuable to senior management. CEO & CMO of company need insights on their Online Reatil Store. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.As a result, they require a dashboard that can clearly and simply explain and display data and insights.
+An online reatail store hired you as a consultant to review their data and provide insights that would be valuable to senior management. CEO & CMO of company need insights on their Online Retail Store. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.As a result, they require a dashboard that can clearly and simply explain and display data and insights.
 
 # Task 1 - Framing Business Scenarios 
 As a Consultant,  draft relevant business questions for both CEO and CMO that would help to evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
@@ -35,3 +35,7 @@ Create a Dashboard to present valuable insights from both CEO & CMO perspective.
 # Certificate
 
 [Certificate](https://github.com/KAMNA11/Tata_Data_Visualization_Virtual_Experience_Programme/blob/main/Certificate.pdf)
+
+# Programme Details
+
+[Programme Details](https://www.theforage.com/virtual-internships/prototype/MyXvBcppsW2FkNYCX/Data-Visualisation-Empowering-Business-with-Effective-Insights)
