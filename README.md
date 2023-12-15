@@ -1,4 +1,4 @@
-# Tata_Data_Visualization_Virtual_Experience_Programme
+# Tata_Data_Visualization_Virtual_Experience_Program
 
 # Case Overview
 An online reatail store hired you as a consultant to review their data and provide insights that would be valuable to senior management. CEO & CMO of company need insights on their Online Retail Store. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.As a result, they require a dashboard that can clearly and simply explain and display data and insights.
